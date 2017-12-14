@@ -1,3 +1,5 @@
+#Author : Shingare Shubham
+
 setwd("C:/R")
 
 #Reading the data
@@ -131,8 +133,6 @@ lines(sales.pred6[,3],col="red")
 
 #Creating File for prediction
 p<-predict(hws6,12)
-write.csv(p,"2-12/timeseries/p.csv")
+write.csv(p,"2-12/timeseries/predicted_value.csv")
 p
 
-
-#without any trens/sea/sim
