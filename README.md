@@ -1,2 +1,2 @@
 # Time-Series-Model-in-R
-Time Series example to predict next year profit  using R programming. Profit shown in month by month...
+For this we are use last few year data and then applyed the model. in this we create a prediction for next year profit 
